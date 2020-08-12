@@ -13,7 +13,6 @@ const Header = () => {
     }
   `)
 
-  console.log(logo)
   return (
     <header
       css={css`
